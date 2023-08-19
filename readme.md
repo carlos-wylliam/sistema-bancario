@@ -1,5 +1,7 @@
 # SISTEMA BANCÁRIO API
-
+<div align = "center">
+<img width="90%" src="assets/imagem-banco.jpeg">
+</div>
 
 ## Descrição
 Desenvolvi uma API completa que simula funcionalidades essenciais de um sistema bancário, incluindo listagem, criação e atualização de contas bancárias. As características abrangem desde transações simples, como depósitos e saques, até recursos avançados, como transferências entre contas e consulta de saldo e extrato. Utilizei Node.js e o framework Express para implementar esse projeto, reforçando minhas habilidades no desenvolvimento backend.
